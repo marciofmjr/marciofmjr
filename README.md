@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 🧑🏻‍💻
 
-<!--
-**marciofmjr/marciofmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcio Junior, I'm 25 years old, I'm living on Brazil 🇧🇷.
 
-Here are some ideas to get you started:
+#### About me 💬
+I love development and technological things since I was a kid, I always liked computer and discovering new things. I have a special affection for the areas of **front-end**, **usability**, **design**, **software architecture**, **user experience**, **artificial intelligence**, new things and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Working 🖥️
+I'm currently working on [Field Control 🚀](https://fieldcontrol.com), in the most part of the time we work with **node** and **angular** projects
+
+#### Studing 📚
+I'm currently studying [Vue.js](https://vuejs.org/), to learn a different framework, and I chose vue because I believe it's a little more simple than Angular and React. Could be very interest when you need to build small projects and you need agility and productivity
+
+#### Follow me 🏃‍♂️
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marciofmjr)](https://twitter.com/marciofmjr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciofmjr)](https://www.linkedin.com/in/marciofmjr)
