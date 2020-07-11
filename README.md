@@ -6,7 +6,7 @@ My name is Marcio Junior, I'm 25 years old, I'm living on Brazil 🇧🇷.
 I love development and technological things since I was a kid, I always liked computer and discovering new things. I have a special affection for the areas of **front-end**, **usability**, **design**, **software architecture**, **user experience**, **artificial intelligence**, new things and more.
 
 #### Working 🖥️
-I'm currently working on [Field Control 🚀](https://fieldcontrol.com), in the most part of the time we work with **node** and **angular** projects
+I'm currently working at [Field Control 🚀](https://fieldcontrol.com), in the most part of the time we work with **node** and **angular** projects
 
 #### Studing 📚
 I'm currently studying [Vue.js](https://vuejs.org/), to learn a different framework, and I chose vue because I believe it's a little more simple than Angular and React. Could be very interest when you need to build small projects and you need agility and productivity
