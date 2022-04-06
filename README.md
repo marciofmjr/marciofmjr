@@ -6,7 +6,7 @@ My name is Marcio Junior, I'm 27 years old, I'm living on Brazil 🇧🇷.
 I love development and technological things since I was a kid, I always liked computer and discovering new things. I have a special affection for the areas of **front-end**, **usability**, **design**, **software architecture**, **user experience**, **artificial intelligence**, new things and more.
 
 #### Working 🖥️
-I'm currently working at [SHIFT 🧪 🖥️](https://shift.com.br), in the most part of the time we work with [Intersystems](https://www.intersystems.com/br/) technologies
+I'm currently working at [Luizalabs 🧪 🖥️](https://www.instagram.com/luizalabs/?hl=en)
 
 #### Studing 📚
 I'm currently studying [Angular](https://angular.io/), to learn a different framework.
